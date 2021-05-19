@@ -1,16 +1,16 @@
-### Hi there 👋
+## Witaj na devmentor-pl!
 
-<!--
-**devmentor-pl/devmentor-pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Z tej strony **Mateusz Bogolubow**. Prowadzę indywidualne kursy z technologii front-end. Uczę programowania w **JavaScript i React**. 
 
-Here are some ideas to get you started:
+Zapewniam:
+- 🕑 500 godzin nauki programowania,
+- 💬 codzienny kontakt w formie czatu,
+- 💁‍♂️ regularne konsultacje online 1:1, 
+- 📚 materiały do nauki,
+- 🎲 praktyczne zadania i projekty - zawsze zakończone 🕵‍♂ Code Review (CR),
+- 🎯 pomoc w przygotowaniu CV oraz w rekrutacji,
+- 🎓 zaświadczenie (certyfikat) ukończenia indywidualnego szkolenia zgodnego z rozporządzeniem MEN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jeśli jest Ci potrzebny **mentor, nauczyciel czy korepetycje**, zapraszam do kontaktu: https://devmentor.pl/rozmowa/.
+
+PS. Chcesz poszerzać swoją wiedzę ogólną z IT? Może zainteresuje Cię mój [podcast "Pierwsze kroki w IT"](https://devmentor.pl/bc/podcast) 🎧 Zapraszam do odsłuchania! 😉
